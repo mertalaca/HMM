@@ -1,4 +1,5 @@
-﻿<!DOCTYPE html>
+﻿@model HelpMeMate.Models.LoginViewModel
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -186,22 +187,22 @@
                     <div class="modal-body">
                         <h4 class="modal-header-title">Log In</h4>
                         <div class="login-form">
-                            <form>
-
+                            <form asp-controller="Account" asp-action="Login" method="post">
                                 <div class="form-group">
-                                    <label>User Name</label>
-                                    <input type="text" class="form-control" placeholder="Username">
+                                    <label asp-for="Username">User Name</label>
+                                    <input asp-for="Username" type="text" class="form-control" placeholder="Username">
+                                    <span asp-validation-for="Username" class="text-danger"></span>
                                 </div>
 
                                 <div class="form-group">
-                                    <label>Password</label>
-                                    <input type="password" class="form-control" placeholder="*******">
+                                    <label asp-for="Password">Password</label>
+                                    <input asp-for="Password" type="password" class="form-control" placeholder="*******">
+                                    <span asp-validation-for="Password" class="text-danger"></span>
                                 </div>
 
                                 <div class="form-group">
                                     <button type="submit" class="btn btn-md full-width pop-login">Login</button>
                                 </div>
-
                             </form>
                         </div>
 
@@ -288,4 +289,17 @@
     <!-- ============================================================== -->
 
 </body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $(document).on('click', '.pop-login', function (e) {
+        e.preventDefault();
+        const username = $('input[name="Username"]').val();
+
+        if (username) {
+            alert("Hoşgeldin " + username);
+            $('.login_click').hide();
+            $(this).closest('form').submit();
+        }
+    });
+</script>
 </html>

@@ -1,1079 +1,1079 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelpMeMate.bundle.scp.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HelpMeMate.bundle.scp.css",
       "PackagePath": "staticwebassets\\HelpMeMate.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\colors.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\colors.css",
       "PackagePath": "staticwebassets\\css\\colors.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\Flaticon.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\Flaticon.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\Flaticon.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\Flaticon.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\Flaticon.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\Flaticon.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\Flaticon.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\Flaticon.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\LineIcons.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\LineIcons.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\LineIcons.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\LineIcons.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\LineIcons.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\LineIcons.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\LineIcons.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\LineIcons.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\LineIcons.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\LineIcons.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\LineIcons.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\LineIcons.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-brands-400.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-brands-400.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-brands-400.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-brands-400.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-brands-400.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-brands-400.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-brands-400.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-brands-400.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-brands-400.woff2",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-brands-400.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-brands-400.woff2"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-regular-400.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-regular-400.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-regular-400.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-regular-400.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-regular-400.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-regular-400.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-regular-400.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-regular-400.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-regular-400.woff2",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-regular-400.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-regular-400.woff2"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-solid-900.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-solid-900.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-solid-900.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-solid-900.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-solid-900.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-solid-900.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-solid-900.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-solid-900.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\fa-solid-900.woff2",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\fa-solid-900.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\fa-solid-900.woff2"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\flaticon.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\fonts\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\houses.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\houses.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\houses.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\houses.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\houses.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\houses.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\houses.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\houses.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\houses.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\houses.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\houses.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\houses.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\icofont.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\icofont.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\icofont.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\icofont.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\icofont.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\icofont.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\icofont.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\icofont.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\icofont.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\icofont.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\icofont.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\icofont.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\icofont.woff2",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\icofont.woff2",
       "PackagePath": "staticwebassets\\css\\fonts\\icofont.woff2"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\slick.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\slick.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\slick.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\slick.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\slick.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\slick.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\slick.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\slick.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\slick.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\slick.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\slick.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\slick.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\summernote.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\summernote.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\summernote.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\summernote.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\summernote.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\summernote.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\summernote.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\summernote.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\summernote.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\themify.eot",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\themify.eot",
       "PackagePath": "staticwebassets\\css\\fonts\\themify.eot"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\themify.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\themify.svg",
       "PackagePath": "staticwebassets\\css\\fonts\\themify.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\themify.ttf",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\themify.ttf",
       "PackagePath": "staticwebassets\\css\\fonts\\themify.ttf"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\fonts\\themify.woff",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\fonts\\themify.woff",
       "PackagePath": "staticwebassets\\css\\fonts\\themify.woff"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\img\\close.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\img\\close.png",
       "PackagePath": "staticwebassets\\css\\img\\close.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\img\\lightbox-next.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\img\\lightbox-next.png",
       "PackagePath": "staticwebassets\\css\\img\\lightbox-next.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\img\\lightbox-prev.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\img\\lightbox-prev.png",
       "PackagePath": "staticwebassets\\css\\img\\lightbox-prev.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\img\\loading.gif",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\img\\loading.gif",
       "PackagePath": "staticwebassets\\css\\img\\loading.gif"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\metismenu.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\metismenu.css",
       "PackagePath": "staticwebassets\\css\\metismenu.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\ajax-loader.gif",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\css\\plugins\\ajax-loader.gif"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\animation.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\animation.css",
       "PackagePath": "staticwebassets\\css\\plugins\\animation.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\bootstrap.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\date-picker.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\date-picker.css",
       "PackagePath": "staticwebassets\\css\\plugins\\date-picker.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\dropzone.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\dropzone.css",
       "PackagePath": "staticwebassets\\css\\plugins\\dropzone.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\flaticon.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\flaticon.css",
       "PackagePath": "staticwebassets\\css\\plugins\\flaticon.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\font-awesome.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\font-awesome.css",
       "PackagePath": "staticwebassets\\css\\plugins\\font-awesome.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\iconfont.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\iconfont.css",
       "PackagePath": "staticwebassets\\css\\plugins\\iconfont.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\ion.rangeSlider.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\ion.rangeSlider.min.css",
       "PackagePath": "staticwebassets\\css\\plugins\\ion.rangeSlider.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\light-box.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\light-box.css",
       "PackagePath": "staticwebassets\\css\\plugins\\light-box.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\line-icons.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\line-icons.css",
       "PackagePath": "staticwebassets\\css\\plugins\\line-icons.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\magnifypopup.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\magnifypopup.css",
       "PackagePath": "staticwebassets\\css\\plugins\\magnifypopup.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\morris.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\morris.css",
       "PackagePath": "staticwebassets\\css\\plugins\\morris.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\plugins.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\plugins.css",
       "PackagePath": "staticwebassets\\css\\plugins\\plugins.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\select2.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\select2.css",
       "PackagePath": "staticwebassets\\css\\plugins\\select2.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\slick-theme.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\slick-theme.css",
       "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\slick-theme.less",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\slick-theme.less",
       "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.less"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\slick-theme.scss",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\slick-theme.scss",
       "PackagePath": "staticwebassets\\css\\plugins\\slick-theme.scss"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\slick.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\slick.css",
       "PackagePath": "staticwebassets\\css\\plugins\\slick.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\slick.scss",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\slick.scss",
       "PackagePath": "staticwebassets\\css\\plugins\\slick.scss"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\plugins\\themify.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\plugins\\themify.css",
       "PackagePath": "staticwebassets\\css\\plugins\\themify.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\css\\styles.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\404.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\404.png",
       "PackagePath": "staticwebassets\\img\\404.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\6518.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\6518.png",
       "PackagePath": "staticwebassets\\img\\6518.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\b-1.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\b-1.jpg",
       "PackagePath": "staticwebassets\\img\\b-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\b-2.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\b-2.jpg",
       "PackagePath": "staticwebassets\\img\\b-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\b-3.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\b-3.jpg",
       "PackagePath": "staticwebassets\\img\\b-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\banner-1.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\banner-1.jpg",
       "PackagePath": "staticwebassets\\img\\banner-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\banner-2.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\banner-2.jpg",
       "PackagePath": "staticwebassets\\img\\banner-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\banner-3.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\banner-3.jpg",
       "PackagePath": "staticwebassets\\img\\banner-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\banner-4.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\banner-4.jpg",
       "PackagePath": "staticwebassets\\img\\banner-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\banner-5.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\banner-5.jpg",
       "PackagePath": "staticwebassets\\img\\banner-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\bg-new.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\bg-new.jpg",
       "PackagePath": "staticwebassets\\img\\bg-new.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\bg-new.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\bg-new.png",
       "PackagePath": "staticwebassets\\img\\bg-new.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-1.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-1.png",
       "PackagePath": "staticwebassets\\img\\book-1.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-2.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-2.png",
       "PackagePath": "staticwebassets\\img\\book-2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-3.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-3.png",
       "PackagePath": "staticwebassets\\img\\book-3.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-4.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-4.png",
       "PackagePath": "staticwebassets\\img\\book-4.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-5.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-5.png",
       "PackagePath": "staticwebassets\\img\\book-5.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-6.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-6.png",
       "PackagePath": "staticwebassets\\img\\book-6.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-7.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-7.png",
       "PackagePath": "staticwebassets\\img\\book-7.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-8.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-8.png",
       "PackagePath": "staticwebassets\\img\\book-8.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\book-9.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\book-9.png",
       "PackagePath": "staticwebassets\\img\\book-9.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-1.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-1.png",
       "PackagePath": "staticwebassets\\img\\brand-1.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-2.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-2.png",
       "PackagePath": "staticwebassets\\img\\brand-2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-3.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-3.png",
       "PackagePath": "staticwebassets\\img\\brand-3.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-4.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-4.png",
       "PackagePath": "staticwebassets\\img\\brand-4.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-5.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-5.png",
       "PackagePath": "staticwebassets\\img\\brand-5.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-6.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-6.png",
       "PackagePath": "staticwebassets\\img\\brand-6.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\brand-7.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\brand-7.png",
       "PackagePath": "staticwebassets\\img\\brand-7.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\briefcase.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\briefcase.png",
       "PackagePath": "staticwebassets\\img\\briefcase.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\career.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\career.png",
       "PackagePath": "staticwebassets\\img\\career.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\circle-6.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\circle-6.png",
       "PackagePath": "staticwebassets\\img\\circle-6.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\circle.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\circle.png",
       "PackagePath": "staticwebassets\\img\\circle.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\city.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\city.svg",
       "PackagePath": "staticwebassets\\img\\city.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\close.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\close.png",
       "PackagePath": "staticwebassets\\img\\close.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-1.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-1.jpg",
       "PackagePath": "staticwebassets\\img\\co-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-2.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-2.jpg",
       "PackagePath": "staticwebassets\\img\\co-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-3.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-3.jpg",
       "PackagePath": "staticwebassets\\img\\co-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-4.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-4.jpg",
       "PackagePath": "staticwebassets\\img\\co-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-5.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-5.jpg",
       "PackagePath": "staticwebassets\\img\\co-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-6.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-6.jpg",
       "PackagePath": "staticwebassets\\img\\co-6.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\co-7.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\co-7.jpg",
       "PackagePath": "staticwebassets\\img\\co-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\color-search.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\color-search.svg",
       "PackagePath": "staticwebassets\\img\\color-search.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\content.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\content.png",
       "PackagePath": "staticwebassets\\img\\content.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-1.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-1.jpg",
       "PackagePath": "staticwebassets\\img\\course-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-10.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-10.jpg",
       "PackagePath": "staticwebassets\\img\\course-10.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-11.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-11.jpg",
       "PackagePath": "staticwebassets\\img\\course-11.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-2.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-2.jpg",
       "PackagePath": "staticwebassets\\img\\course-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-3.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-3.jpg",
       "PackagePath": "staticwebassets\\img\\course-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-4.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-4.jpg",
       "PackagePath": "staticwebassets\\img\\course-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-5.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-5.jpg",
       "PackagePath": "staticwebassets\\img\\course-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-6.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-6.jpg",
       "PackagePath": "staticwebassets\\img\\course-6.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-7.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-7.jpg",
       "PackagePath": "staticwebassets\\img\\course-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-8.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-8.jpg",
       "PackagePath": "staticwebassets\\img\\course-8.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\course-9.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\course-9.jpg",
       "PackagePath": "staticwebassets\\img\\course-9.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\designer.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\designer.png",
       "PackagePath": "staticwebassets\\img\\designer.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\e.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\e.jpg",
       "PackagePath": "staticwebassets\\img\\e.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\edu_1.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\edu_1.png",
       "PackagePath": "staticwebassets\\img\\edu_1.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\edu_2.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\edu_2.png",
       "PackagePath": "staticwebassets\\img\\edu_2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\eloip.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\eloip.png",
       "PackagePath": "staticwebassets\\img\\eloip.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\facebook.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\facebook.svg",
       "PackagePath": "staticwebassets\\img\\facebook.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\google.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\google.svg",
       "PackagePath": "staticwebassets\\img\\google.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\gray.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\gray.png",
       "PackagePath": "staticwebassets\\img\\gray.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\green-logo.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\green-logo.png",
       "PackagePath": "staticwebassets\\img\\green-logo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\h-3.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\h-3.png",
       "PackagePath": "staticwebassets\\img\\h-3.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\h-5.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\h-5.png",
       "PackagePath": "staticwebassets\\img\\h-5.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\health.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\health.png",
       "PackagePath": "staticwebassets\\img\\health.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\landing-bg.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\landing-bg.png",
       "PackagePath": "staticwebassets\\img\\landing-bg.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\learnup.psd",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\learnup.psd",
       "PackagePath": "staticwebassets\\img\\learnup.psd"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-1.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-1.png",
       "PackagePath": "staticwebassets\\img\\lg-1.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-2.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-2.png",
       "PackagePath": "staticwebassets\\img\\lg-2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-3.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-3.png",
       "PackagePath": "staticwebassets\\img\\lg-3.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-4.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-4.png",
       "PackagePath": "staticwebassets\\img\\lg-4.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-5.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-5.png",
       "PackagePath": "staticwebassets\\img\\lg-5.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-6.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-6.png",
       "PackagePath": "staticwebassets\\img\\lg-6.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-7.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-7.png",
       "PackagePath": "staticwebassets\\img\\lg-7.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-8.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-8.png",
       "PackagePath": "staticwebassets\\img\\lg-8.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lg-9.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lg-9.png",
       "PackagePath": "staticwebassets\\img\\lg-9.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lightbox-next.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lightbox-next.png",
       "PackagePath": "staticwebassets\\img\\lightbox-next.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\lightbox-prev.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\lightbox-prev.png",
       "PackagePath": "staticwebassets\\img\\lightbox-prev.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\line2.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\line2.png",
       "PackagePath": "staticwebassets\\img\\line2.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\line6.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\line6.png",
       "PackagePath": "staticwebassets\\img\\line6.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\loader.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\loader.svg",
       "PackagePath": "staticwebassets\\img\\loader.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\loading.gif",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\loading.gif",
       "PackagePath": "staticwebassets\\img\\loading.gif"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\log.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\log.png",
       "PackagePath": "staticwebassets\\img\\log.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\logo-light.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\logo-light.png",
       "PackagePath": "staticwebassets\\img\\logo-light.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\logo.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\logo.png",
       "PackagePath": "staticwebassets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\mastercard.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\mastercard.png",
       "PackagePath": "staticwebassets\\img\\mastercard.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\medal.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\medal.png",
       "PackagePath": "staticwebassets\\img\\medal.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\pat.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\pat.png",
       "PackagePath": "staticwebassets\\img\\pat.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\pattern.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\pattern.png",
       "PackagePath": "staticwebassets\\img\\pattern.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\paypal.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\paypal.png",
       "PackagePath": "staticwebassets\\img\\paypal.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\photo.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\photo.png",
       "PackagePath": "staticwebassets\\img\\photo.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\pin.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\pin.svg",
       "PackagePath": "staticwebassets\\img\\pin.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\python.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\python.png",
       "PackagePath": "staticwebassets\\img\\python.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\schedule.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\schedule.png",
       "PackagePath": "staticwebassets\\img\\schedule.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\search.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\search.png",
       "PackagePath": "staticwebassets\\img\\search.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\search.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\search.svg",
       "PackagePath": "staticwebassets\\img\\search.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\speaker.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\speaker.png",
       "PackagePath": "staticwebassets\\img\\speaker.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\st-3.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\st-3.png",
       "PackagePath": "staticwebassets\\img\\st-3.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\star-banner.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\star-banner.png",
       "PackagePath": "staticwebassets\\img\\star-banner.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\testimonial.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\testimonial.png",
       "PackagePath": "staticwebassets\\img\\testimonial.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\tour-1.html",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\tour-1.html",
       "PackagePath": "staticwebassets\\img\\tour-1.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\tour-2.html",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\tour-2.html",
       "PackagePath": "staticwebassets\\img\\tour-2.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\tour-3.html",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\tour-3.html",
       "PackagePath": "staticwebassets\\img\\tour-3.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\tour-4.html",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\tour-4.html",
       "PackagePath": "staticwebassets\\img\\tour-4.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\tour-5.html",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\tour-5.html",
       "PackagePath": "staticwebassets\\img\\tour-5.html"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\type.svg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\type.svg",
       "PackagePath": "staticwebassets\\img\\type.svg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-1.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-1.jpg",
       "PackagePath": "staticwebassets\\img\\user-1.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-2.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-2.jpg",
       "PackagePath": "staticwebassets\\img\\user-2.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-3.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-3.jpg",
       "PackagePath": "staticwebassets\\img\\user-3.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-4.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-4.jpg",
       "PackagePath": "staticwebassets\\img\\user-4.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-5.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-5.jpg",
       "PackagePath": "staticwebassets\\img\\user-5.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-6.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-6.jpg",
       "PackagePath": "staticwebassets\\img\\user-6.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-7.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-7.jpg",
       "PackagePath": "staticwebassets\\img\\user-7.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\user-8.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\user-8.jpg",
       "PackagePath": "staticwebassets\\img\\user-8.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\video.jpg",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\video.jpg",
       "PackagePath": "staticwebassets\\img\\video.jpg"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\visa.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\visa.png",
       "PackagePath": "staticwebassets\\img\\visa.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\img\\yoga.png",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\img\\yoga.png",
       "PackagePath": "staticwebassets\\img\\yoga.png"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\counterup.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\counterup.min.js",
       "PackagePath": "staticwebassets\\js\\counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\custom.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\daterangepicker.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\daterangepicker.js",
       "PackagePath": "staticwebassets\\js\\daterangepicker.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\dropzone-amd-module.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\dropzone-amd-module.js",
       "PackagePath": "staticwebassets\\js\\dropzone-amd-module.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\dropzone.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\dropzone.js",
       "PackagePath": "staticwebassets\\js\\dropzone.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\isotope.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\isotope.min.js",
       "PackagePath": "staticwebassets\\js\\isotope.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\jquery.counterup.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\jquery.counterup.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\jquery.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\metisMenu.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\metisMenu.min.js",
       "PackagePath": "staticwebassets\\js\\metisMenu.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\moment.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\js\\moment.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\popper.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\popper.min.js",
       "PackagePath": "staticwebassets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\select2.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\select2.min.js",
       "PackagePath": "staticwebassets\\js\\select2.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\js\\slick.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\js\\slick.js",
       "PackagePath": "staticwebassets\\js\\slick.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\HelpMeMate.csproj": {}
+    "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\HelpMeMate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\HelpMeMate.csproj": {
+    "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\HelpMeMate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\HelpMeMate.csproj",
+        "projectUniqueName": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\HelpMeMate.csproj",
         "projectName": "HelpMeMate",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\HelpMeMate.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\HelpMeMate\\HelpMeMate\\obj\\",
+        "projectPath": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\HelpMeMate.csproj",
+        "packagesPath": "C:\\Users\\malaca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\malaca\\Documents\\GitHub\\Panda_git\\HMM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\malaca\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,6 +44,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -64,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
